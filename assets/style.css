@@ -1,0 +1,58 @@
+h1 {
+	background-color: darkgrey;
+	text-align: center;
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.card {
+	margin: 10px;
+}
+.coloumn1 {
+	background-color: white;
+	/* darkkhaki */
+}
+.coloumn2 {
+	background-color: rgb(255, 255, 255);
+}
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.green{
+    background-color: lightgreen;
+  }
+  .yellow{
+    background-color: yellow;
+  }
+  .orange{
+    background-color: orange;
+  }
+  .red{
+    background-color: red;
+  }
+  .purple{
+    background-color: purple;
+  }
+.icons {
+	height: 70px;
+	width: 70px;
+}
+.cardTodayDate {
+	font-size: 20px;
+}
+
+#currentWeather {
+    border: solid 1px rgba(0,0,0,.125);
+    border-radius: 0.3rem;
+    padding: 15px;
+}
+
+#previousSearch {
+    border: solid 1px rgba(0,0,0,.125);
+    margin-bottom: 15px;
+    max-height: 408px;
+    overflow: auto;
+}
